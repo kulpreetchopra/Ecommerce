@@ -1,0 +1,140 @@
+ul li{
+
+			display: inline-block;
+			background: blue;
+            width: 228px;
+            height: 37px;
+            text-align: center;
+            line-height: 37px;
+            color: blue;
+            font-weight: bold;
+		    }
+		ul li a{
+			text-decoration: none;
+			color: white;
+		}
+		ul li:hover{
+			background: green;
+		}
+        table,td,th,tr{
+			text-align: center;
+		}
+		tr:hover{
+			background: red;
+		}
+		td:hover{
+			background: yellow;
+		}
+		th:hover{
+			background: yellow;
+		}
+		.a{
+			background-color: #ffc107;
+			border: 1px solid;
+			width: 1500px;
+			height: 70px;
+			float: left;
+            
+			
+		}
+		.b{
+			
+			border: 1px solid;
+			width: 1500px;
+			height: 90px;
+			float: left;
+			background: none;
+            }
+		
+		.c{
+			
+			border: 1px solid;
+			width: 1500px;
+			height: 1000px;
+			float: left;
+			background-color: cyan;
+			}
+		.d{
+			
+			border: 1px solid;
+			width: 1500px;
+			height: 200px;
+			float: left;
+
+            }
+         .e{
+         	margin-left: 40px;
+			border: 1px solid;
+         	width: 250px;
+         	height: 500px;
+         	float: left;
+         	background-color:#ffc107;
+         }
+         .f{
+         	margin-top: 80px;
+         	margin-left : 40px;
+			border: 1px solid;
+         	width: 1418px;
+         	height: 200px;
+         	float: left;
+         	background-color: orange;
+         }
+		.g{
+			border: 1px solid;
+			display: inline-block;
+			background: blue;
+            width: 100px;
+            height: 30px;
+            text-align: center;
+            line-height: 37px;
+            color: white;
+            font-weight: bold;
+            text-decoration: none;
+            
+		}
+		.g:hover{
+			background: green;
+		         }
+		p1{
+			text-align: left;
+			display: inline-block;
+			font-weight: bold;
+		}
+		p2{
+
+			text-align: center;
+			display: inline-block;
+			font-weight: bold;
+
+		}
+		p3{
+
+			text-align:center;
+			display: inline-block;
+			font-weight: none;
+
+		}
+		
+		h2{
+			text-align: center;
+			font-weight: bold;
+			font-family: bold;
+		}
+		.space{
+	    width: 1450px;
+	    margin:auto;
+}
+
+.phone{
+	float: right;
+	display: inline;
+	f
+}
+.email{
+	float: left;
+	display: inline;
+}
+
+p{
+	color: white;
+}
